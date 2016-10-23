@@ -1,10 +1,10 @@
 # hackru-F16-heartbeat
 
 # Inspiration
-Patients aren't always limited to the hospitals. Heartbeat is an app designed as a life alarm system to prevent and forewarn its user of the dangers of exceeding normal heart rate thresholds while awake and especially in their sleep. 
+Patients aren't always limited to the hospitals. Pulse is an app designed as a life alarm system to prevent and forewarn its user of the dangers of exceeding normal heart rate thresholds while awake and especially in their sleep. 
 
 # What it does
-Heartbeat tracks its user's heart rate with the portable monitor and sends a call depending on the severity of the heart rate fluctuation. Upon successful registration, the user is sent a call once the heart rate reaches "warning" level. When the "danger" level is reached, a call is made to the user; if the call is unsuccessful, the registered emergency contact is sent a call.
+Pulse tracks its user's heart rate with the portable monitor and sends a call depending on the severity of the heart rate fluctuation. Upon successful registration, the user is sent a call once the heart rate reaches "warning" level. When the "danger" level is reached, a call is made to the user; if the call is unsuccessful, the registered emergency contact is sent a call.
 
 # How we built it
 MongoDB implementation on a Linux server using Linode, telecommunication via Twilio, and data tracking using a Polar H7 low energy bluetooth heart monitor comprise the entirety of this project.
