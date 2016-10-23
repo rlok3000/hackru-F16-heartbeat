@@ -26,5 +26,6 @@ mongoDB
 linode
 node.js
 Xcode
+Swift
 Twilio
 Github
