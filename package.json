@@ -1,0 +1,22 @@
+{
+  "name": "hackru",
+  "version": "1.0.0",
+  "description": "hackru stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlok3000/hackru-F16.git"
+  },
+  "author": "Russell Lok, Samuel Sohn, David Hynuh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlok3000/hackru-F16/issues"
+  },
+  "homepage": "https://github.com/rlok3000/hackru-F16#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
